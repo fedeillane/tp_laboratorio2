@@ -1,0 +1,24 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Federico\Desktop\Facu\Programacion 2\Trabajos Practicos\TP02\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\Federico\Desktop\Facu\Programacion 2\Trabajos Practicos\TP02\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Federico\Desktop\Facu\Programacion 2\Trabajos Practicos\TP02\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\Federico\Desktop\Facu\Programacion 2\Trabajos Practicos\TP02\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Federico\Desktop\Facu\Programacion 2\GitHub\Yo\tp_laboratorio2-master\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\Federico\Desktop\Facu\Programacion 2\GitHub\Yo\tp_laboratorio2-master\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Federico\Desktop\Facu\Programacion 2\GitHub\Yo\tp_laboratorio2-master\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Federico\Desktop\Facu\Programacion 2\GitHub\Yo\tp_laboratorio2-master\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\Federico\Desktop\Facu\Programacion 2\GitHub\Yo\tp_laboratorio2-master\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Federico\Desktop\tp_laboratorio2\TP2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Federico\Desktop\tp_laboratorio2\TP2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Federico\Desktop\tp_laboratorio2\TP2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Federico\Desktop\tp_laboratorio2\TP2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Federico\Desktop\tp_laboratorio2\TP2\Entidades\obj\Debug\Entidades.pdb
