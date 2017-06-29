@@ -1,0 +1,5 @@
+C:\Users\Federico\Desktop\tp_laboratorio2\RecuperatoriosTP\TP3\Illane.Federico.EntidadesInstanciables\bin\Debug\Illane.Federico.EntidadesInstanciables.dll
+C:\Users\Federico\Desktop\tp_laboratorio2\RecuperatoriosTP\TP3\Illane.Federico.EntidadesInstanciables\bin\Debug\Illane.Federico.EntidadesInstanciables.pdb
+C:\Users\Federico\Desktop\tp_laboratorio2\RecuperatoriosTP\TP3\Illane.Federico.EntidadesInstanciables\obj\Debug\Illane.Federico.EntidadesInstanciables.csprojResolveAssemblyReference.cache
+C:\Users\Federico\Desktop\tp_laboratorio2\RecuperatoriosTP\TP3\Illane.Federico.EntidadesInstanciables\obj\Debug\Illane.Federico.EntidadesInstanciables.dll
+C:\Users\Federico\Desktop\tp_laboratorio2\RecuperatoriosTP\TP3\Illane.Federico.EntidadesInstanciables\obj\Debug\Illane.Federico.EntidadesInstanciables.pdb
