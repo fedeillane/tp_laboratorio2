@@ -39,15 +39,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Enumerados.cs" />
     <Compile Include="Persona.cs" />
-    <Compile Include="PersonaGimnasio.cs" />
+    <Compile Include="Universitario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Illane.Federico.Archivos\Illane.Federico.Archivos.csproj">
       <Project>{7305fc6d-080b-49ea-9be4-c1b48b97e218}</Project>
       <Name>Illane.Federico.Archivos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Illane.Federico.Excepciones\Illane.Federico.Excepciones.csproj">
+      <Project>{e285d0eb-3468-4a92-9084-43e24a6a7d55}</Project>
+      <Name>Illane.Federico.Excepciones</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,7 +1,0 @@
-c:\users\federico\documents\visual studio 2012\Projects\Illane.Federico.TrabajoPractico3\Illane.Federico.TrabajoPractico3\bin\Debug\Illane.Federico.TrabajoPractico3.exe.config
-C:\Users\Federico\Desktop\tp_laboratorio2\RecuperatoriosTP\TP3\Illane.Federico.TrabajoPractico3\bin\Debug\Illane.Federico.TrabajoPractico3.exe.config
-C:\Users\Federico\Desktop\tp_laboratorio2\RecuperatoriosTP\TP3\Illane.Federico.TrabajoPractico3\bin\Debug\Illane.Federico.TrabajoPractico3.exe
-C:\Users\Federico\Desktop\tp_laboratorio2\RecuperatoriosTP\TP3\Illane.Federico.TrabajoPractico3\bin\Debug\Illane.Federico.TrabajoPractico3.pdb
-C:\Users\Federico\Desktop\tp_laboratorio2\RecuperatoriosTP\TP3\Illane.Federico.TrabajoPractico3\obj\Debug\Illane.Federico.TrabajoPractico3.csprojResolveAssemblyReference.cache
-C:\Users\Federico\Desktop\tp_laboratorio2\RecuperatoriosTP\TP3\Illane.Federico.TrabajoPractico3\obj\Debug\Illane.Federico.TrabajoPractico3.exe
-C:\Users\Federico\Desktop\tp_laboratorio2\RecuperatoriosTP\TP3\Illane.Federico.TrabajoPractico3\obj\Debug\Illane.Federico.TrabajoPractico3.pdb

@@ -47,6 +47,24 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Illane.Federico.Archivos\Illane.Federico.Archivos.csproj">
+      <Project>{7305fc6d-080b-49ea-9be4-c1b48b97e218}</Project>
+      <Name>Illane.Federico.Archivos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Illane.Federico.EntidadesAbstractas\Illane.Federico.EntidadesAbstractas.csproj">
+      <Project>{269321f1-4d97-4f3d-8877-a06150bff426}</Project>
+      <Name>Illane.Federico.EntidadesAbstractas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Illane.Federico.EntidadesInstanciables\Illane.Federico.EntidadesInstanciables.csproj">
+      <Project>{fcd2cd36-9b7c-4a20-87bd-8ff345a907e7}</Project>
+      <Name>Illane.Federico.EntidadesInstanciables</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Illane.Federico.Excepciones\Illane.Federico.Excepciones.csproj">
+      <Project>{e285d0eb-3468-4a92-9084-43e24a6a7d55}</Project>
+      <Name>Illane.Federico.Excepciones</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

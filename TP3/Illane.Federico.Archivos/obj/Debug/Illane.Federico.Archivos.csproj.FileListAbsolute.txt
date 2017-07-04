@@ -1,0 +1,7 @@
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.Archivos\bin\Debug\Illane.Federico.Archivos.dll
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.Archivos\bin\Debug\Illane.Federico.Archivos.pdb
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.Archivos\obj\Debug\Illane.Federico.Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.Archivos\obj\Debug\Illane.Federico.Archivos.dll
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.Archivos\obj\Debug\Illane.Federico.Archivos.pdb
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.Archivos\bin\Debug\Illane.Federico.Excepciones.dll
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.Archivos\bin\Debug\Illane.Federico.Excepciones.pdb

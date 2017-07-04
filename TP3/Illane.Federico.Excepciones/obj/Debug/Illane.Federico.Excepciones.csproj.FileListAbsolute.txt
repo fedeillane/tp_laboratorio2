@@ -3,3 +3,8 @@ c:\users\federico\documents\visual studio 2012\Projects\Illane.Federico.TrabajoP
 c:\users\federico\documents\visual studio 2012\Projects\Illane.Federico.TrabajoPractico3\Illane.Federico.Excepciones\obj\Debug\Illane.Federico.Excepciones.csprojResolveAssemblyReference.cache
 c:\users\federico\documents\visual studio 2012\Projects\Illane.Federico.TrabajoPractico3\Illane.Federico.Excepciones\obj\Debug\Illane.Federico.Excepciones.dll
 c:\users\federico\documents\visual studio 2012\Projects\Illane.Federico.TrabajoPractico3\Illane.Federico.Excepciones\obj\Debug\Illane.Federico.Excepciones.pdb
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.Excepciones\bin\Debug\Illane.Federico.Excepciones.dll
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.Excepciones\bin\Debug\Illane.Federico.Excepciones.pdb
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.Excepciones\obj\Debug\Illane.Federico.Excepciones.dll
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.Excepciones\obj\Debug\Illane.Federico.Excepciones.pdb
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.Excepciones\obj\Debug\Illane.Federico.Excepciones.csprojResolveAssemblyReference.cache

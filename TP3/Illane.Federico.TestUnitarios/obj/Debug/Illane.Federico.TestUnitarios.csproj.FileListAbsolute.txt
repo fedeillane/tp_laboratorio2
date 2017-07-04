@@ -1,0 +1,13 @@
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.TestUnitarios\bin\Debug\Illane.Federico.TestUnitarios.dll
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.TestUnitarios\bin\Debug\Illane.Federico.TestUnitarios.pdb
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.TestUnitarios\bin\Debug\Illane.Federico.EntidadesAbstractas.dll
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.TestUnitarios\bin\Debug\Illane.Federico.EntidadesInstanciables.dll
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.TestUnitarios\bin\Debug\Illane.Federico.Excepciones.dll
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.TestUnitarios\bin\Debug\Illane.Federico.Archivos.dll
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.TestUnitarios\bin\Debug\Illane.Federico.EntidadesAbstractas.pdb
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.TestUnitarios\bin\Debug\Illane.Federico.EntidadesInstanciables.pdb
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.TestUnitarios\bin\Debug\Illane.Federico.Excepciones.pdb
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.TestUnitarios\bin\Debug\Illane.Federico.Archivos.pdb
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.TestUnitarios\obj\Debug\Illane.Federico.TestUnitarios.csprojResolveAssemblyReference.cache
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.TestUnitarios\obj\Debug\Illane.Federico.TestUnitarios.dll
+C:\Users\Federico\Desktop\tp_laboratorio2\TP3\Illane.Federico.TestUnitarios\obj\Debug\Illane.Federico.TestUnitarios.pdb
